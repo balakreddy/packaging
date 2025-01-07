@@ -4,7 +4,7 @@
 Name:           python-%{pypi_name}
 Version:        1.2.0
 Release:        %autorelease
-Summary:        Cloud Image uploader messages to the public cloud
+Summary:        AMQP messages emitted by the fedora-image-uploader package
 
 License:        GPL-2.0-or-later
 
